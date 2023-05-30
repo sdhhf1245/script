@@ -1,3 +1,3 @@
 local player = game.Players.LocalPlayer
 
-player:Kick("haha idiot just buy cheetohub")
+player:Kick("haha idiot just buy akihbub")
